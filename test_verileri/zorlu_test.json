@@ -1,0 +1,74 @@
+{
+  "universite_adi": "Kocaeli Universitesi",
+  "kurulus_yili": 1976,
+  "aktif": true,
+  "ortalama_basari": 78.4,
+  "akreditasyon": null,
+  "rektor": {
+    "ad": "Prof. Dr. Ahmet Yilmaz",
+    "iletisim": {
+      "email": "rektor@kou.edu.tr",
+      "telefon": "0262 303 1000",
+      "ofis": {
+        "bina": "Rektorluk",
+        "kat": 3
+      }
+    }
+  },
+  "fakulteler": [
+    {
+      "ad": "Muhendislik Fakultesi",
+      "ogrenci_sayisi": 4500,
+      "dekan": "Prof. Dr. Mehmet Demir",
+      "bolumler": [
+        {
+          "ad": "Bilgisayar Muhendisligi",
+          "kontenjani": 100,
+          "akredite": true,
+          "dersler": [
+            {
+              "kod": "BIL101",
+              "ad": "Programlama Lab II",
+              "kredi": 4.0,
+              "secmeli": false,
+              "ogretim_uyeleri": ["Dr. Asli", "Dr. Burak"],
+              "ogrenciler": [
+                {
+                  "no": 220201001,
+                  "ad": "Can",
+                  "soyad": "Kilic",
+                  "notlar": [85, 92, 78]
+                },
+                {
+                  "no": 220201002,
+                  "ad": "Ayse",
+                  "notlar": [70, 85]
+                }
+              ]
+            },
+            {
+              "kod": "BIL102",
+              "ad": "Veri Yapilari",
+              "kredi": 3.5,
+              "secmeli": false,
+              "ogretim_uyeleri": [],
+              "ogrenciler": []
+            }
+          ]
+        },
+        {
+          "ad": "Endustri Muhendisligi",
+          "kontenjani": 80,
+          "akredite": false,
+          "dersler": []
+        }
+      ]
+    },
+    {
+      "ad": "Tip Fakultesi",
+      "ogrenci_sayisi": 1200,
+      "dekan": null,
+      "bolumler": []
+    }
+  ]
+}

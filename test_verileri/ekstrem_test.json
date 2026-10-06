@@ -1,0 +1,13 @@
+{
+  "ad": "Ekstrem Test",
+  "matrix": [[1, 2, 3], [4, 5, 6], [7, 8, 9]],
+  "karisik_dizi": ["metin", 42, 3.14, true, null],
+  "sayisal_dizi": [1, 2.5, 3, 4.7],
+  "obje_ve_primitif_dizi": [
+    "ilk eleman string",
+    {"adi": "ikinci obje", "deger": 100},
+    "ucuncu yine string"
+  ],
+  "tamamen_bos": [],
+  "tek_elemanli": ["yalniz"]
+}

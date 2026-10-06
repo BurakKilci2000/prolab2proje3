@@ -1,0 +1,35 @@
+{
+  "ad": "Ali",
+  "soyad": "Yilmaz",
+  "yas": 25,
+  "aktif": true,
+  "puan": 87.5,
+  "adres": {
+    "sehir": "Kocaeli",
+    "ilce": "Izmit",
+    "konum": {
+      "enlem": 40.76,
+      "boylam": 29.94
+    }
+  },
+  "telefonlar": ["05321234567", "05339876543"],
+  "siparisler": [
+    {
+      "urun": "Laptop",
+      "fiyat": 25000,
+      "kategori": {"ana": "Elektronik", "alt": "Bilgisayar"}
+    },
+    {
+      "urun": "Mouse",
+      "fiyat": 500,
+      "kategori": {"ana": "Elektronik", "alt": "Aksesuar"}
+    }
+  ],
+  "egitim": [
+    {
+      "okul": "Kocaeli Universitesi",
+      "bolum": "Bilgisayar Muh.",
+      "dersler": ["Algoritmalar", "Veritabani", "Yapay Zeka"]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "ad": "Ali",
+    "yas": 25,
+    "meslek": "muhendis",
+    "hobiler": ["yuzme", "kitap"]
+  },
+  {
+    "ad": "Veli",
+    "yas": 30,
+    "sehir": "Istanbul",
+    "evcil_hayvan": {
+      "tur": "kedi",
+      "isim": "Pamuk"
+    }
+  },
+  {
+    "ad": "Ayse",
+    "yas": null,
+    "hobiler": ["resim"]
+  }
+]
